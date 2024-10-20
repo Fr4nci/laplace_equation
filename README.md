@@ -5,7 +5,7 @@ This repository contains scripts and notes I've developed during my studies on t
 ### Current Projects:
 - ~~Potential in a region of space with two conductors, with potentials \( V_0 \) and 0 on their surfaces~~
 - Breakdown of the dielectric
-- Arbitrary Laplace equation
+- Laplace equation with arbitrary boundary counditions
 - More cases to come
 
 Feel free to report any errors or suggest improvements!
